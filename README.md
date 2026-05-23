@@ -1,5 +1,6 @@
-# AlpaTrace
+# AlpaCash
 
+![IconoAlpaCash](icono_alapca_fibra.png)
 ## Plataforma AgriTech-FinTech para productores de fibra de alpaca
 
 **AlpaTrace** es una plataforma digital que conecta a productores de fibra de alpaca con empresas compradoras del sector textil, incorporando trazabilidad, validación de productores, información de precios por categoría de fibra e historial de transacciones para facilitar el acceso a financiamiento productivo.
